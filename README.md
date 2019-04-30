@@ -7,9 +7,9 @@ download model via link https://drive.google.com/drive/folders/1nx4po3BAp1djfJd3
 
 ในการใช้งาน ImageAI ในการตรวจจับวัตถุบนภาพและแยกแต่ละวัตถุออกจากภาพ Model ที่ใช้ในการ Detection โดยต้อง Dowmload Model มีดังนี้
 
-* OpenCV (Open source Computer Vision)
-* Python 3.6 หรือมากกว่า 
-* Haarcascade_frontalface_default.xml
+* OpenCV (Open source Computer Vision)*
+* Python 3.6 หรือมากกว่า*
+* Haarcascade_frontalface_default.xml*`Haar Cascades Data File`
 * NumPy
 * Matplotlib
 * SciPy
@@ -22,8 +22,6 @@ download model via link https://drive.google.com/drive/folders/1nx4po3BAp1djfJd3
 * เกิดหน้าต่างที่จัดทำไว้ขึ้นมา หากกดปุ่ม play จะทำให้โปรแกรมทำงานพร้อมการ Detction 
 * ทำการ Capture ใบหน้าบุคคล โดยสามารถจับใบหน้าบุคคลได้หลายใบหน้า
 * หากต้องการหยุดโปรแกรมให้ทำการกดปุ่ม pause
-
-![](https://www.img.live/images/2019/04/30/pic22.png)
 
 ![](https://www.img.live/images/2019/04/30/pic203e413.png)
 
