@@ -23,10 +23,6 @@ download model via link https://drive.google.com/drive/folders/1nx4po3BAp1djfJd3
 * ทำการ Capture ใบหน้าบุคคล โดยสามารถจับใบหน้าบุคคลได้หลายใบหน้า
 * หากต้องการหยุดโปรแกรมให้ทำการกดปุ่ม pause
 
-![](https://www.img.live/images/2019/04/30/pic203e413.png)
-
-![](https://www.img.live/images/2019/04/30/pic15a89cd.png)
-
 
 
 
